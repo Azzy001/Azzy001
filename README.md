@@ -23,10 +23,4 @@
 
 <hr style="width:80%; border:0; border-top:1px solid #444;">
 
-<!-- GITHUB STATS IN ONE ROW -->
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsalan-dev-engineer&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan-dev-engineer&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
 </div>
