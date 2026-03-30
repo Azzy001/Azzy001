@@ -13,14 +13,9 @@
   </a>
 </div>
 
-<hr style="width:80%; border:0; border-top:1px solid #444;">
-
 <!-- TECH STACK -->
 <h3>🛠️ Tech Stack</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform,python,fastapi,linux,bash,githubactions,vscode&theme=dark" height="45" />
 </div>
-
-<hr style="width:80%; border:0; border-top:1px solid #444;">
-
 </div>
